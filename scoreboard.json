@@ -1,14 +1,14 @@
 {
- "updated": "2026-09-23T22:06:28-04:00",
+ "updated": "2026-09-24T07:00:39-04:00",
  "revenue_total": 0,
  "revenue_30d": 0,
- "costs_30d": 87.51,
- "net_30d": -87.51,
+ "costs_30d": 0.42,
+ "net_30d": -0.42,
  "mrr": 0,
  "self_sustaining": false,
  "paying_customers": 0,
  "users": 0,
  "list_size": 0,
- "products": 1,
- "days_alive": 1
+ "products": 0,
+ "days_alive": 0
 }
