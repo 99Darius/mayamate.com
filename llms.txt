@@ -14,10 +14,10 @@
 
 ## Products
 
-- none listed yet
+- [AI Visibility Audit](https://mayamate.com/products/ai-visibility-audit/): When someone asks ChatGPT, Perplexity or Google's AI who to buy from in your category, who gets named — and why isn't it you? A hands-on audit with a prioritized fix list. $299, founding rate.
 
 ## Numbers
 
 - Revenue, all-time: $0
 - Self-sustaining: not yet
-- Days alive: 0
+- Days alive: 1
